@@ -1,0 +1,6 @@
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\FileOperationsBasic\bin\Debug\FileOperationsBasic.exe.config
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\FileOperationsBasic\bin\Debug\FileOperationsBasic.exe
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\FileOperationsBasic\bin\Debug\FileOperationsBasic.pdb
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\FileOperationsBasic\obj\Debug\FileOperationsBasic.csprojResolveAssemblyReference.cache
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\FileOperationsBasic\obj\Debug\FileOperationsBasic.exe
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\FileOperationsBasic\obj\Debug\FileOperationsBasic.pdb

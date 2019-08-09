@@ -1,0 +1,6 @@
+D:\Visual Studio 2012\Delegates\Delegates\bin\Debug\Delegates.exe.config
+D:\Visual Studio 2012\Delegates\Delegates\bin\Debug\Delegates.exe
+D:\Visual Studio 2012\Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\Visual Studio 2012\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Delegates\Delegates\obj\Debug\Delegates.exe
+D:\Visual Studio 2012\Delegates\Delegates\obj\Debug\Delegates.pdb

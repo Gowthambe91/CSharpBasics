@@ -1,0 +1,5 @@
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\Collections2Sorting\bin\Debug\Collections2Sorting.exe.config
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\Collections2Sorting\bin\Debug\Collections2Sorting.exe
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\Collections2Sorting\bin\Debug\Collections2Sorting.pdb
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\Collections2Sorting\obj\Debug\Collections2Sorting.exe
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\Collections2Sorting\obj\Debug\Collections2Sorting.pdb

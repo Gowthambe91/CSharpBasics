@@ -1,0 +1,6 @@
+C:\Users\Gowtham\Documents\Visual Studio 2012\Projects\CSharp Basics\Properties\bin\Debug\Properties.exe.config
+C:\Users\Gowtham\Documents\Visual Studio 2012\Projects\CSharp Basics\Properties\bin\Debug\Properties.exe
+C:\Users\Gowtham\Documents\Visual Studio 2012\Projects\CSharp Basics\Properties\bin\Debug\Properties.pdb
+C:\Users\Gowtham\Documents\Visual Studio 2012\Projects\CSharp Basics\Properties\obj\Debug\Properties.csprojResolveAssemblyReference.cache
+C:\Users\Gowtham\Documents\Visual Studio 2012\Projects\CSharp Basics\Properties\obj\Debug\Properties.exe
+C:\Users\Gowtham\Documents\Visual Studio 2012\Projects\CSharp Basics\Properties\obj\Debug\Properties.pdb

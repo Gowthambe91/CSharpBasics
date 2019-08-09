@@ -1,0 +1,6 @@
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\MultiThreadingBasics\bin\Debug\MultiThreadingBasics.exe.config
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\MultiThreadingBasics\bin\Debug\MultiThreadingBasics.exe
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\MultiThreadingBasics\bin\Debug\MultiThreadingBasics.pdb
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\MultiThreadingBasics\obj\Debug\MultiThreadingBasics.csprojResolveAssemblyReference.cache
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\MultiThreadingBasics\obj\Debug\MultiThreadingBasics.exe
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\MultiThreadingBasics\obj\Debug\MultiThreadingBasics.pdb

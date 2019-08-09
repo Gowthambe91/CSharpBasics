@@ -1,0 +1,6 @@
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\CSharp Basics\bin\Debug\CSharp Basics.exe.config
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\CSharp Basics\bin\Debug\CSharp Basics.exe
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\CSharp Basics\bin\Debug\CSharp Basics.pdb
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\CSharp Basics\obj\Debug\CSharp Basics.csprojResolveAssemblyReference.cache
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\CSharp Basics\obj\Debug\CSharp Basics.exe
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\CSharp Basics\obj\Debug\CSharp Basics.pdb

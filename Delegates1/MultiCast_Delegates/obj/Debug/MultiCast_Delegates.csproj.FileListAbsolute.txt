@@ -1,0 +1,5 @@
+D:\Visual Studio 2012\Delegates\MultiCast_Delegates\bin\Debug\MultiCast_Delegates.exe.config
+D:\Visual Studio 2012\Delegates\MultiCast_Delegates\bin\Debug\MultiCast_Delegates.exe
+D:\Visual Studio 2012\Delegates\MultiCast_Delegates\bin\Debug\MultiCast_Delegates.pdb
+D:\Visual Studio 2012\Delegates\MultiCast_Delegates\obj\Debug\MultiCast_Delegates.exe
+D:\Visual Studio 2012\Delegates\MultiCast_Delegates\obj\Debug\MultiCast_Delegates.pdb

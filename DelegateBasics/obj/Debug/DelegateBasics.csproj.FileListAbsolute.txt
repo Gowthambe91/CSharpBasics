@@ -1,0 +1,6 @@
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\DelegateBasics\bin\Debug\DelegateBasics.exe.config
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\DelegateBasics\bin\Debug\DelegateBasics.exe
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\DelegateBasics\bin\Debug\DelegateBasics.pdb
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\DelegateBasics\obj\Debug\DelegateBasics.exe
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\DelegateBasics\obj\Debug\DelegateBasics.pdb
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\DelegateBasics\obj\Debug\DelegateBasics.csprojResolveAssemblyReference.cache

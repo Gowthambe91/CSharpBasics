@@ -1,0 +1,6 @@
+C:\Users\Gowtham\Documents\Visual Studio 2012\Projects\CSharp Basics\RegexBasics\bin\Debug\RegexBasics.exe.config
+C:\Users\Gowtham\Documents\Visual Studio 2012\Projects\CSharp Basics\RegexBasics\bin\Debug\RegexBasics.exe
+C:\Users\Gowtham\Documents\Visual Studio 2012\Projects\CSharp Basics\RegexBasics\bin\Debug\RegexBasics.pdb
+C:\Users\Gowtham\Documents\Visual Studio 2012\Projects\CSharp Basics\RegexBasics\obj\Debug\RegexBasics.csprojResolveAssemblyReference.cache
+C:\Users\Gowtham\Documents\Visual Studio 2012\Projects\CSharp Basics\RegexBasics\obj\Debug\RegexBasics.exe
+C:\Users\Gowtham\Documents\Visual Studio 2012\Projects\CSharp Basics\RegexBasics\obj\Debug\RegexBasics.pdb

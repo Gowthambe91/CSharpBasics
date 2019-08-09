@@ -1,0 +1,5 @@
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\CollectionsClass\obj\Debug\CollectionsClass.csprojResolveAssemblyReference.cache
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\CollectionsClass\bin\Debug\CollectionsClass.dll
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\CollectionsClass\bin\Debug\CollectionsClass.pdb
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\CollectionsClass\obj\Debug\CollectionsClass.dll
+C:\Users\Gowtham\documents\visual studio 2012\Projects\CSharp Basics\CollectionsClass\obj\Debug\CollectionsClass.pdb
