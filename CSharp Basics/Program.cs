@@ -33,12 +33,18 @@ namespace CSharp_Basics
             try
             {
                 int y = 0;
+                if (y == 0)
+                {
+                    throw (new DivideByZeroExcep("Division cannot be done on value 0"));
+                    //new DivideByZeroException
+                }
                 int x = 5 / y;
+               
             }
             catch (Exception d)
             {
-                //Console.WriteLine(d.Message);
-                throw (new DivideByZeroException(d.Message));
+                Console.WriteLine(d.Message);
+                ;// If we throw exception, at some place we should catch it handle it.                
             }
             finally
             {
@@ -52,12 +58,9 @@ namespace CSharp_Basics
         }
     }
 
-    class DivideByZeroExcep : ApplicationException
+    class DivideByZeroExcep : ArithmeticException
     {
-        public DivideByZeroExcep()
-        {
-            Console.WriteLine("Exception found");
-        }
+        public DivideByZeroExcep(string message) { }
     }
     class Sample
     {

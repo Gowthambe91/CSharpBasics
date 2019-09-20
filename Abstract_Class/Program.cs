@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Abstract_Class
 {
-    
+    /*Abstract class are the incomplete class, contains implemented and non-implemented methods, it cannot be instantiated,
+     so gotta be inherited by another class, which should give implementation for all the abstract methods, also can
+     override the implemented methods in abstract class, and abstract class cannot be sealed as it must be inherited by another*/
     public class Class1 : AbstractClass
     {
         //public abstract void display();

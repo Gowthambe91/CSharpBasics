@@ -59,6 +59,7 @@ namespace CollectionsBasic
             //Genrics<int> genobj = new Genrics<int>();  /*Generics is introduced in C# 2.0*/
             Genrics genobj = new Genrics();
             Console.WriteLine(genobj.Add(10, 100));
+            Console.WriteLine(genobj.Add<string>("string A","string B"));
             Console.WriteLine(genobj.Subtract(99, 100));
             Console.WriteLine(genobj.Add(1000, 11000));
 
@@ -111,7 +112,7 @@ namespace CollectionsBasic
 
     class Genrics
     {
-        public int Add<T>(T a, T b)
+        public T Add<T>(T a, T b)
         {
             // var v1 = a; /* not working */
             // var v2 = b;
@@ -120,7 +121,7 @@ namespace CollectionsBasic
             return d1 + d2;
         }
 
-        public int Subtract<T>(T a, T b)
+        public T Subtract<T>(T a, T b)
         {
             // var v1 = a; /* not working */
             // var v2 = b;
