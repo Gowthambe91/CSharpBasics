@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp Basics", "CSharp Basics\CSharp Basics.csproj", "{1A84BE4A-61A4-4BC9-A293-3783DE84E809}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileOperationsBasic", "FileOperationsBasic\FileOperationsBasic.csproj", "{EC20D2AD-7245-4C1B-B33F-453AF7B036DC}"
@@ -34,6 +36,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowException", "ThrowException\ThrowException.csproj", "{79FCDD8A-EDA8-40F1-8792-344AEDDCCB14}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{33F61FF2-DA54-466B-BD60-842B086329DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{B1D424E6-C55B-4462-8D96-74F5B2054FBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,10 @@ Global
 		{33F61FF2-DA54-466B-BD60-842B086329DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33F61FF2-DA54-466B-BD60-842B086329DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33F61FF2-DA54-466B-BD60-842B086329DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D424E6-C55B-4462-8D96-74F5B2054FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D424E6-C55B-4462-8D96-74F5B2054FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D424E6-C55B-4462-8D96-74F5B2054FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D424E6-C55B-4462-8D96-74F5B2054FBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+/.vs/CSharp Basics/v15/*.suo
+/Abstract_Class/obj/Debug/*.cache
+*.gitignore
+*.cache
+*.exe
+*.config
+*.pdb
+*.txt
+Debug
