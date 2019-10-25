@@ -39,18 +39,18 @@ namespace Abstract_Class
         //    Console.WriteLine("display");
         //}
 
-        public virtual void abstractdisplay1()
+        public virtual void abstractdisplay1() //If no override, calls this definition
         {
             Console.WriteLine("abstractdisplay1 from Base Class");
         }
     }
 
-    public class Class2 : Class1
+    public class Class2 : AbstractClass
     {
-        ////public void abstractdisplay1()
-        ////{
-        ////    Console.WriteLine("abstractdisplay1 from derived class2");
-        ////}
+        public override void abstractdisplay()
+        {
+            Console.WriteLine("abstractdisplay from derived class2");
+        }
     }
 
     class Program

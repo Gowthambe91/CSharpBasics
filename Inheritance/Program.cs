@@ -30,6 +30,16 @@ namespace Inheritance
             fullTimeEmployee.printFirstName();//Should call the base class method, since not overriden/hidden
             partTimeEmployee.printFirstName();//Should call the overriden member from child class
 
+
+            /*Multiple Inheritance Conflict*/
+            Console.WriteLine("Multiple Inheritance Conflicts\n "); // new Line
+            MultipleInheritanceConflict multipleInheritanceConflict = new MultipleInheritanceConflict();
+            // multipleInheritanceConflict.display(); when given public , this works well.
+            interface1 obj1 = new MultipleInheritanceConflict();
+            obj1.display();
+            interface2 obj2 = new MultipleInheritanceConflict();
+            obj2.display();
+            multipleInheritanceConflict.testInterface1();
             Console.ReadKey();
         }
     }

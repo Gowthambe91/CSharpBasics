@@ -9,7 +9,7 @@ namespace Inheritance
     class MultipleInheritanceConflict : interface1, interface2
     {
         /*
-                public void display() //if i give public, calls work fine, but still confusion which interface method is getting called
+                public void display() //if i give public, calls work fine, but still confusion which interface method is getting called, Probably hiding the interface methods and calls it's own implementation
                 {
                     Console.WriteLine("From display Method - interface1");
                 }
