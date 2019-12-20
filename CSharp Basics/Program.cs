@@ -11,7 +11,9 @@ namespace CSharp_Basics
 {
     class Program
     {
-       
+        public enum studentType { 
+        Engineer = 12, Doctor, Arts, Science
+        }
         static void Main(string[] args)
         {
             int ab=1;
@@ -28,17 +30,18 @@ namespace CSharp_Basics
             so.sample1();
 
             //FileStream file = new FileStream(filepath, FileMode.OpenOrCreate);
-            Console.WriteLine("{0},{1},{2},{3}",ch,ab,so.recursive(5),exampath);
+            //Console.WriteLine("{0},{1},{2},{3}",ch,ab,so.recursive(5),exampath);
+            Console.WriteLine(studentType.Arts + " " + Convert.ToDouble(studentType.Arts));
 
             try
             {
                 int y = 0;
-                if (y == 0)
-                {
-                    throw (new DivideByZeroExcep("Division cannot be done on value 0"));
-                    //new DivideByZeroException
-                }
-                int x = 5 / y;
+                //if (y == 0)
+                //{
+                //    throw (new DivideByZeroExcep("Division cannot be done on value 0"));
+                //    //new DivideByZeroException
+                //}
+                //int x = 5 / y;
                
             }
             catch (Exception d)
@@ -50,6 +53,8 @@ namespace CSharp_Basics
             {
                 Console.WriteLine("finally");
             }
+
+            Console.ReadLine();
         }
 
         void test()
